@@ -1,0 +1,18 @@
+[
+  {
+    "Name": "Net Core Super Board",
+    "Description": "Some random description",
+    "Price": 300,
+    "PictureUrl": "images/products/sb-core2.png",
+    "ProductTypeId": "BCC46DD9-EBC7-44DC-804F-A321FF92576B",
+    "ProductBrandId": "80853785-1B2E-4CF6-B875-9DBA80D3106D"
+  },
+  {
+    "Name": "Angular Super Board",
+    "Description": "Some random description",
+    "Price": 250,
+    "PictureUrl": "images/products/sb-core2.png",
+    "ProductTypeId": "BCC46DD9-EBC7-44DC-804F-A321FF92576B",
+    "ProductBrandId": "80853785-1B2E-4CF6-B875-9DBA80D3106D"
+  }
+]
